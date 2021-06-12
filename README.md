@@ -30,9 +30,6 @@ Hi, I'm Shivaji Sawant, a passionate software engineer from India.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawantshivaji1997&layout=compact&theme=prussian" />
 </a>
 
-<br />
-<br />
-
 ### Quote of the Day
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
