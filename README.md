@@ -33,8 +33,6 @@ Hi, I'm Shivaji Sawant, a passionate software engineer from India.
 ### Quote of the Day
 
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img align="center" src="https://quotes-github-readme.vercel.app/api" />
+  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
 </a>
-<div align="center">
-</div>
 
