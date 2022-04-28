@@ -2,8 +2,6 @@
 ### Hi there 👋
 Hi, I'm Shivaji Sawant, a passionate software engineer from India.
 
-- 🔭 I’m currently working on Containers
-- 🌱 I’m currently learning Golang
 - 📫 How to reach me: <br>
   [![Linkedin Badge](https://img.shields.io/badge/-ShivajiSawant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/shivaji-sawant-17041997/) <br>
   [![Gmail Badge](https://img.shields.io/badge/-sawantshivaji1997@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sawantshivaji1997@gmail.com)](mailto:sawantshivaji1997@gmail.com)
