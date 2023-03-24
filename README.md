@@ -1,36 +1,18 @@
+# 💫 About Me:
+### Hi there 👋<br>Hi, I'm Shivaji Sawant, a passionate software engineer from India.
 
-### Hi there 👋
-Hi, I'm Shivaji Sawant, a passionate software engineer from India.
 
-- 📫 How to reach me: <br>
-  [![Linkedin Badge](https://img.shields.io/badge/-ShivajiSawant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayraj-roshan/)](https://www.linkedin.com/in/shivaji-sawant-17041997/) <br>
-  [![Gmail Badge](https://img.shields.io/badge/-sawantshivaji1997@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sawantshivaji1997@gmail.com)](mailto:sawantshivaji1997@gmail.com)
-  
-<!--
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivajisawant) 
 
-### Languages and Tools 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sawantshivaji1997&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sawantshivaji1997&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sawantshivaji1997&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sawantshivaji1997&show_icons=true&include_all_commits=true&theme=prussian" alt="Shivaji's GitHub stats" />
-</a>
+---
+<!--[![](https://visitcount.itsvg.in/api?id=sawantshivaji1997&icon=1&color=1)](https://visitcount.itsvg.in) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sawantshivaji1997&layout=compact&theme=prussian" />
-</a>
-
-### Quote of the Day
-
-<a href="https://github.com/piyushsuthar/github-readme-quotes">
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal" />
-</a>
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
